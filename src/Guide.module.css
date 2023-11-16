@@ -1,0 +1,68 @@
+/* In Guide.module.css */
+
+.Guide {
+    max-width: 100rem;
+    margin: auto;
+    padding: 20px;
+    background-color: #f1ecec;
+  }
+  
+  .Guide1,
+  .Guide2,
+  .Guide3 {
+    margin-top: 40px;
+    background-color: white;
+    max-width:70rem ;
+    margin-left: 150px;
+    height: 10rem;
+    
+  
+  }
+  
+  /* .Guide1 i,
+  .Guide2 i,
+  .Guide3 i {
+    margin-bottom: 10px;
+  }
+   */
+  .Guide h1,
+  .Guide2 h1,
+  .Guide3 h1 {
+    color: black;
+    font-size: 2rem;
+    margin-top: 20px;
+  }
+  
+  .Guide h2,
+  .Guide2 h2,
+  .Guide3 h2 {
+    color: black;
+    font-size: 2rem;
+  }
+  
+  .Guide p,
+  .Guide2 p,
+  .Guide3 p {
+    color: black;
+   margin-left: 350px;
+   
+  }
+  
+  .Guide4 {
+    margin-top: 20px;
+  }
+  
+  .Guide4 button {
+    background-color: pink;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 9rem;
+    margin-left: 40rem;
+    margin-top: -40px;
+  }
+  
+  .Guide4 button:hover {
+    background-color: #ff69b4; /* A lighter shade of pink for hover effect */
+  }
+  

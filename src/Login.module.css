@@ -1,0 +1,61 @@
+
+  
+  .Btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    margin-top: 50px;
+  }
+  
+  .Btn h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .Btn form {
+    width: 100%;
+  }
+  
+  .Btn label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .Btn input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .Login {
+    background-color: #28a745;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 15rem;
+  }
+  
+  .Login1 {
+    margin-top: 20px;
+    text-align: center;  }
+  
+
+  
+  .Login1 span {
+    color: black;
+    cursor: pointer;
+    
+
+ }
+  

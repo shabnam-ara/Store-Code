@@ -1,0 +1,62 @@
+/* Register.css */
+
+.register-container {
+  max-width: 500px;
+  margin: auto;
+  padding: 65px 95px 45px 55px;
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  margin-top: 30px;
+  color: black;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+  font-size: 3rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin: 10px 0;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  box-sizing: border-box;
+}
+
+button {
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  width: 100%;
+  cursor: pointer;
+  font-size: 20px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgb(221, 62, 160) 0%, rgb(255, 77, 0) 100%);
+  margin-top: 15px;
+}
+
+h3 {
+  margin-top: 70px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  text-align: center;
+  color: gray;
+}
+
+h5 {
+  margin-top: 10px;
+  text-align: center;
+  color: gray;
+}
